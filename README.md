@@ -4,14 +4,15 @@
 https://npeplov.github.io/mq-diplom/
 
 ### JS:
+##### Крестики-нолики
 https://replit.com/@NikitaPeplov/Diplom-startovyi-kod#index.html
-Крестики-нолики
 
-https://github.com/npeplov/js-advanced-diploma
-Поле боя в стиле Heroes of might and magic
+##### Поле боя в стиле Heroes of might and magic
+Soruce: https://github.com/npeplov/js-advanced-diploma<br>
+Deployment: https://npeplov.github.io/js-advanced-diploma/
 
+##### Управление финансами
 https://github.com/npeplov/bhj-diploma
-Управление финансами
 
 
 <!---
