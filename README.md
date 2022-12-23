@@ -4,8 +4,6 @@
 https://npeplov.github.io/mq-diplom/
 
 ### JS:
-##### Крестики-нолики
-https://replit.com/@NikitaPeplov/Diplom-startovyi-kod#index.html
 
 ##### Поле боя в стиле Heroes of might and magic
 Soruce: https://github.com/npeplov/js-advanced-diploma<br>
