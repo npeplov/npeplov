@@ -1,12 +1,12 @@
 ## Примеры моих работ
 
-### TypeScript, React, Redux:
+#### TypeScript, React, Redux:
 <li>E-commerce приложение (интернет-магазин): https://github.com/npeplov/footwear-shop</li>
 
-### HTML, CSS:
+#### HTML, CSS:
 <li>Лендинг приложения для вуза: https://npeplov.github.io/mq-diplom/</li>
 
-### JavaScript, Webpack, Babel, Eslint:
+#### JavaScript, Webpack, Babel, Eslint:
 
 <li> Поле боя в стиле Heroes of might and magic: https://npeplov.github.io/js-advanced-diploma/</li>
 
