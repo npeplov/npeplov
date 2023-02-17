@@ -1,6 +1,6 @@
 ## Примеры моих работ
 
-#### TypeScript, React, Redux:
+#### TypeScript, React, Redux Toolkit, RTK Query:
 <li>E-commerce приложение (интернет-магазин): https://github.com/npeplov/footwear-shop</li>
 
 #### HTML, CSS:
