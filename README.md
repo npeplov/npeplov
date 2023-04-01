@@ -13,7 +13,8 @@
 
 <li>Управление финансами: https://github.com/npeplov/bhj-diploma</li>
 
-### Примеры простые JavaScript, HTML/CSS:
+### Примеры простые
+##### JavaScript, HTML, CSS:
 
 Drag & Drop
 https://npeplov.github.io/ahj-dnd/
