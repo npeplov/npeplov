@@ -13,10 +13,7 @@
 
 <li>Управление финансами: https://github.com/npeplov/bhj-diploma</li>
 
-### Примеры простые:
-
-Анимация & JS + CSS
-https://npeplov.github.io/ahj-anim/
+### Примеры простые JavaScript, HTML/CSS:
 
 Drag & Drop
 https://npeplov.github.io/ahj-dnd/
@@ -27,9 +24,5 @@ https://npeplov.github.io/ahj-forms-goodslist/
 Text notes with your GPS
 https://npeplov.github.io/ahj-media-geo/
 
-Popover
-https://npeplov.github.io/ahj-forms-popovers/
-
 Галерея
 https://github.com/npeplov/ahj-events-gallery
-
