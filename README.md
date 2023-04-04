@@ -27,3 +27,5 @@ https://npeplov.github.io/ahj-media-geo/
 
 Галерея
 https://github.com/npeplov/ahj-events-gallery
+
+<!-- ![Codewars Rank](https://www.codewars.com/users/npeplov/badges/large) -->
