@@ -1,7 +1,7 @@
 ## Примеры моих работ
 
 #### TypeScript, React, Redux Toolkit, RTK Query:
-<li>Приложение «Мобильный хоспис» (частично): https://github.com/fmh-charity/fmh-web/pull/36</li>
+<li>Приложение «Мобильный хоспис» (участвовал в проекте): https://github.com/fmh-charity/fmh-web/pull/36</li>
 <li>E-commerce приложение (интернет-магазин): https://github.com/npeplov/footwear-shop</li>
 
 #### HTML, CSS:
