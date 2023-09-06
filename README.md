@@ -1,4 +1,4 @@
-## Примеры моих работ
+## Проекты в которых участвовал
 
 #### TypeScript, React, Redux Toolkit, RTK Query:
 <li><a href="https://juniorhub.ru/">JuniorHub</a> - агрегатор проектов начинающим IT специалистам</li>
